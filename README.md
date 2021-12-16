@@ -1,8 +1,3 @@
-<style>
-* {
-color: #ff005e;
->
-</style>
 
 ### Hi there 👋
 
@@ -22,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div>
+<div style="color: #ff005e;">
 
 
 
