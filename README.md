@@ -1,4 +1,4 @@
-<h3>Olá, eu me chamo Daniel Sousa!!</h3>
+## Olá, eu me chamo Daniel Sousa!!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -6,9 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danxss&layout=compact&langs_count=5&theme=dracula&title_color=ffffff&bg_color=202021"/>
 </div>
 
-<div style="color: #ff005e;">
-
-
+<div style="display: inline_block;"><br>
+  <img align="right" alt="LOGO" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895727176555569163/921529983632031764/ezgif-6-a4c0744297.gif">
+</div>
+  
+  ##
+  
+  <div>    
 
   ![Snake animation](https://github.com/Danxss/Danxss/blob/output/github-contribution-grid-snake.svg)
 
