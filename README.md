@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block;"><br>
-  <img align="right" alt="LOGO" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895727176555569163/921529983632031764/ezgif-6-a4c0744297.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895727176555569163/921545231302803476/7065_DtKG6GOT.png?width=676&height=676">
 </div>
   
   ##
