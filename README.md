@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Daniel Sousa!! 
 
 • 🌱 Estudando <strong>HTML</strong> & <strong>CSS</strong> & <strong>JS</strong><br>
-• ⚡ Fun Fact : São necessárias 364 lambidas para se chegar ao centro de um pirulito, sabia?
+• ⚡ Desenvolvendo um <a href="https://mikaelly.vercel.app">bot</a> para o discord.
 <div align="center">
   <a href="https://github.com/Danxss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danxss&show_icons=true&include_all_commits=true&count_private=true&theme=dark&custom_title=Meus status&icon_color=c991df"/>
