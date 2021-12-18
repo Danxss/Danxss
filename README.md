@@ -1,9 +1,11 @@
-## Olá, eu me chamo Daniel Sousa!!
+## Olá, eu me chamo Daniel Sousa!! 
 
+• 🌱 Estudando <strong>HTML</strong> & <strong>CSS</strong> & <strong>JS</strong><br>
+• ⚡ Fun Fact : São necessárias 364 lambidas para se chegar ao centro de um pirulito, sabia?
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danxss&show_icons=true&include_all_commits=true&count_private=true&icon_color=3c02a8&title_color=ffffff&bg_color=202021&text_color=808080&custom_title=Meus status"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danxss&layout=compact&langs_count=5&title_color=ffffff&bg_color=202021"/>
+  <a href="https://github.com/Danxss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danxss&show_icons=true&include_all_commits=true&count_private=true&theme=dark&custom_title=Meus status&icon_color=c991df"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danxss&layout=compact&langs_count=5&theme=dark"/>
 </div>
 
 <div style="display: inline_block;"><br>
