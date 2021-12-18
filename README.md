@@ -19,7 +19,8 @@
   
   ##
   
-  <div>    
+  <div>
+  <a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>    
 
   ![Snake animation](https://github.com/Danxss/Danxss/blob/output/github-contribution-grid-snake.svg)
 
